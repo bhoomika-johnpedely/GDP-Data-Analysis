@@ -1,7 +1,7 @@
 ### GDP Data Analysis 
 
 #### Project Overview
-This project aims to analyze GDP data and derive valuable insights and conclusions.
+This project aims to analyze GDP of all the countries over 100 years and derive valuable insights and conclusions.
 I have answered the following questions using data analysis and visualizations in Python (pandas, numpy, matplotlib, seaborn): 
 
 1. Which countries currently have the highest and lowest GDP? I will be looking at and comparing GDP growth over the last 100 years for the countries that have been at the top and bottom 5 consistently.<br>
